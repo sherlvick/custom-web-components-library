@@ -1,0 +1,21 @@
+.rating-container {
+  display: inline-block;
+  border: 1px solid black;
+  width: 400px;
+  margin: auto;
+}
+
+.star {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  font-size: 2em;
+  color: gold;
+  border: 1px solid;
+}
+.filled {
+  fill: gold;
+}
+.empty {
+  fill: none;
+}
